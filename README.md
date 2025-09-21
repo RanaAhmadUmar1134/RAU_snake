@@ -51,7 +51,7 @@ $ python rau.py     # Windows / Termux
 ```
 
 # [ Screenshot ]
-(Add your screenshot here, for example: `![Game](./Screenshot_20250921-220350.png)`)
+![Game Screenshot](Screenshot_20250921-220350.png)
 
 # [ Controls ]
 ```
