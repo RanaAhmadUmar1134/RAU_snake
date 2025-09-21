@@ -21,8 +21,8 @@ Eat food (`$`), avoid walls, and survive as long as you can!
 ```
 $ sudo apt update && sudo apt upgrade -y   # Ubuntu/Debian
 $ sudo apt install git python3 -y
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPO
-$ cd YOUR-REPO
+$ git clone https://github.com/RanaAhmadUmar1134/RAU_snake.git
+$ cd RAU_snake
 ```
 
 # [ Installation - Windows ]
@@ -30,8 +30,8 @@ $ cd YOUR-REPO
 # Install Python from https://www.python.org/
 # Install Git from https://git-scm.com/
 
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPO
-$ cd YOUR-REPO
+$ git clone https://github.com/RanaAhmadUmar1134/RAU_snake.git
+$ cd RAU_snake
 $ pip install windows-curses   # required for Windows
 ```
 
@@ -39,8 +39,8 @@ $ pip install windows-curses   # required for Windows
 ```
 $ pkg update && pkg upgrade -y
 $ pkg install python git -y
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPO
-$ cd YOUR-REPO
+$ git clone https://github.com/RanaAhmadUmar1134/RAU_snake.git
+$ cd RAU_snake
 $ python rau.py
 ```
 
